@@ -80,7 +80,6 @@ We welcome contributions! To contribute to Cloud Tales, please follow these step
    ```
 5. **Create a pull request.**
 
-For more details, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 
